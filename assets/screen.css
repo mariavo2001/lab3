@@ -24,7 +24,7 @@ li {
 
 label {
   display: block;
-  align: center;
+  padding-left: 10px;
 }
 
 button, input {
